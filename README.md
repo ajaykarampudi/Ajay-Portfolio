@@ -1,4 +1,4 @@
-# R GOPINATH REDDY - Portfolio
+# KARAMPUDI AJAY - Portfolio
 
 A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS.
 
@@ -55,9 +55,9 @@ Visit the live portfolio at: [Your Render URL]
 
 ## 📧 Contact
 
-- **Email**: rgopinathreddyreddyvari143@gmail.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/r-gopinathreddy-reddyvari-8a0a1a324)
-- **GitHub**: [GitHub Profile](https://github.com/Rgopi143)
+- **Email**: ajaykarampudu@gmail.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ajay-karampudi-782bb3305/)
+- **GitHub**: [GitHub Profile](https://github.com/ajaykarampudi)
 
 ## 📄 License
 
